@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "86E5P2NTTX.com.closeloop.cxc"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "86E5P2NTTX.com.closeloop.cxc",
+        ],
+        "details": [
+            {
+                "appID": "86E5P2NTTX.com.closeloop.cxc",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
